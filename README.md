@@ -26,3 +26,7 @@ In this tutorial, we build a blogging website with basic functionalities.
     - Flash Messages
     - Redirecting to routes
     - Input validation feedback
+4. [Database with Flask SQLAlchemy](https://www.youtube.com/watch?v=cYWiDiIUxQc&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=4)
+    - SQLAlchemy
+    - Database Models as Python Classes
+    - Interacting with Database from Python Console
