@@ -33,3 +33,7 @@ In this tutorial, we build a blogging website with basic functionalities.
 5. [Package Structure](https://www.youtube.com/watch?v=44PvX0Yv368&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=5)
     - Restructure application to be a package rather than a module
     - Circular Import Problem
+6. [User Authentication](https://www.youtube.com/watch?v=CSHx6eCkmv0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=6)
+    - Custom validation
+    - Flask-Login
+    - User Account
